@@ -1,6 +1,8 @@
 # three_layout
 ##三个布局
+
 ##1.linearlayout(线性布局）
+
 它主要以水平和垂直方式来显示界面中的控件
 ``` android
     <?xml version="1.0" encoding="utf-8" ?>
